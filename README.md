@@ -1,4 +1,4 @@
-My projects (Here i will give the link of projects which i make on my youtube channel only and i have also given the files of my projects)
+My projects (Here i will give the link of projects which i make on my youtube channel only and i have also given the apk files of my projects above so please download them)
 
 This is the link of chatbot - https://studio.code.org/projects/applab/YgR_m302euRwS9ScO6CrhmmcQh9oaIG_cLgnmk_KIeo
 
